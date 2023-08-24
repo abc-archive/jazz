@@ -513,8 +513,8 @@ Q:1/4=120
 M:4/4
 K:Bb
 V:1 treble 
- B2 |"Bb7" f6 e_d |"Eb7" e2 _dB d2 B_A |"Bb7" B3 _A |"Fm7" z4"Bb7" z2 B2 |
-"Eb7" f6 e_d |"Eb7b9" e2 _dB d2 B_A |"Bb7" B3 _A |"Dm7b5" z4"G7b9" z2 B2 |
+ B2 |"Bb7" f6 e_d |"Eb7" e2 _dB d2 B_A |"Bb7" B3 _A z4 |"Fm7" z4"Bb7" z2 B2 |
+"Eb7" f6 e_d |"Eb7b9" e2 _dB d2 B_A |"Bb7" B3 _A z4 |"Dm7b5" z4"G7b9" z2 B2 |
 "Cm7" f6 e_d |"F7" e2 _dB d2 B_A |O"Bb7" B3 _A"G7" z4 |"Cm7" z4"F7" z2 B2 |]
 O "Bb7" B D3 E2 F2 | FGAB z2 B,2- | !fermata!"Bb7#11"B,8|]  
  
