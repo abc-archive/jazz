@@ -203,11 +203,11 @@ L:1/8
 M:3/4
 K:Ab
 V:1 treble 
-|:"F" F2 c3 A |"Gm7" B6 |"Ab" A3"Gm7" B3 |"Fm7" F4 z C | 
-F2 c3 A |"Gm7" B6 |"Ab" A3"Gm7" B3 |"Fm7" F6 ||
+|:"Fm7" F2 c3 A |"Gm7" B6 |"Abmaj7" A3"Gm7" B3 |"Fm7" F4 z C | 
+"Fm7"F2 c3 A |"Gm7" B6 |"Abmaj7" A3"Gm7" B3 |"Fm7" F6 ||
 "Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" E3 |"Fm7" F6 |
 "Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" A3 |1"Fm7" F6 :||2"Fm7" F4 FA ||
-ce z e2 d |"Gm7" c2 c2 BG |"Ab" AA z"Gm7" G2 E |"F7" F4 FA |
+"Fm7"ce z e2 d |"Gm7" c2 c2 BG |"Abmaj7" AA z"Gm7" G2 E |"F7" F4 FA |
 "Fm7" ce z e2 d |"Gm7" c2 c2 BG |"Abmaj7" A.A z"Gm7" G2 E |"Fm7" F6 ||
 "Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" E3 | "Fm7" F6 |
 "Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" A3 |"Fm7" F6 :|]
