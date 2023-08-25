@@ -73,7 +73,7 @@ C:Dizzy Gillespie
 L:1/8
 Q:1/4=120
 M:4/4
-K:F
+K:Dm
  A, |"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, |
 w: The|moon is the same moon a-|bove you, _ A-|glow with its cool eve- ning|light. But|
 "Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A4 |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z2 z A, |
@@ -951,34 +951,82 @@ M:4/4
 K:Fmin
 V:1 treble 
 %%stretchlast 1
+P:A
+"C7" c4- | c4- | c d c G | B c =e G |
+"C7" B4- | B4- | B c d c | d c =B G |
+"C7" B4- | B4- | B c =B _B | =A _A G _G |
+"Fm6" F4- | F4- | F4 |"Fine" z4 :| 
+P:B:
+"F9" f4 | =d2 c>G- | G4- | G>F =E F |
+"Bb9" c4 | G2 F>C- | C4 | z2 B/c/d/=d/ | 
+"Eb7" e4 | c2 B>F- | F4- | F2 G E | 
+"Ab6" c>A- A2- | A2 .B .A |"Dm7" G2 G>G- | "Db7"G2 y"D.C. al Fine" z2 |]  
+ 
+X:1
+T:Caravan (w lyrics)
+C:Duke Ellington
+L:1/4
+M:4/4
+K:Fmin
+V:1 treble 
+%%stretchlast 1
 "C7" c4- | c4- | c d c G | B c =e G |
 w: Night _| * and stars a-|bove that shine so|
 w:Sleep | | * u-pon my shoul-der as we 
+w:You | | *be-side me here be-neath the 
 "C7" B4- | B4- | B c d c | d c =B G |
 w: bright _| *the mys t'ry|of their fad- ing|
 w:creep |  | * a-cross the sands so I may
+w:blue | | * My dream of love is co-ming 
 "C7" B4- | B4- | B c =B _B | =A _A G _G |
 w: light _| * that shines up-|on our Car-a-|
 w:keep | | * the memo-ry of our Car-a- |
-"Fm6" F4- | F4- | F4 | z4 || 
-w: van|
-w: van|
-"F9" f4 | =d2 c>G- | G4- | G>F =E F |
-w:This is so exciting, you are so inviting
-"Bb9" c4 | G2 F>C- | C4 | z2 B/c/d/=d/ | 
-"Eb7" e4 | c2 B>F- | F4- | F2 G E | 
-w:Resting in my arms | |Thrill to~ the
-"Ab6" c>A- A2- | A2 .B .A |"Dm7" G2 G>G- | "Db7"G2 z2 || 
-w:ma-gic, the magic of your charms
-"C7" c4- | c4- | c d c G | B c =e G | 
-w:You | | *be-side me here be-neath the 
-"C7" B4- | B4- | B c d c | d c =B G | 
-w:blue | | * My dream of love is co-ming 
-"C7" B4- | B4- | B c =B _B | =A _A G _G | 
 w:true | | * with-in our de-sert Car-a-
-"Fm6" F4- | F4- | F4 | z4 |] 
-w:van
- 
+"Fm6" F4- | F4- | F4 | "FINE" z4 :| 
+w: van|
+w: van|
+w: van|
+"F9" f4- | f_gfc | e4| d4 |
+w:This|* is so ex-|ci-|ting, 
+"Bb9" f4- | fgfc | e4| =d4 |
+w:you |*are so in-vi-ting
+"Eb7" f4- | fgfc | B4 | f2 e2 | 
+w:Res-|*ting in my arms |as I |
+"Ab6" e3 F- | F G A B |"Dm7" c4- | "Db7"c2"_D.C. al FINE" c2 || 
+w:thrill to |* the the magic |charms |X:1
+T:Caravan (w lyrics)
+C:Duke Ellington
+L:1/4
+M:4/4
+K:Fmin
+V:1 treble 
+%%stretchlast 1
+P:A
+"C7" c4- | c4- | c d c G | B c =e G |
+w: Night _| * and stars a-|bove that shine so|
+w:Sleep | | * u-pon my shoul-der as we 
+w:You | | *be-side me here be-neath the 
+"C7" B4- | B4- | B c d c | d c =B G |
+w: bright _| *the mys t'ry|of their fad- ing|
+w:creep |  | * a-cross the sands so I may
+w:blue | | * My dream of love is co-ming 
+"C7" B4- | B4- | B c =B _B | =A _A G _G |
+w: light _| * that shines up-|on our Car-a-|
+w:keep | | * the memo-ry of our Car-a- |
+w:true | | * with-in our de-sert Car-a-
+"Fm6" F4- | F4- | F4 | "FINE" z4 :| 
+w: van|
+w: van|
+w: van|
+P:B 
+"F9" f4- | f_gfc | e4| d4 |
+w:This|* is so ex-|ci-|ting, 
+"Bb9" f4- | fgfc | e4| =d4 |
+w:you |*are so in-vi-ting
+"Eb7" f4- | fgfc | B4 | f2 e2 | 
+w:Res-|*ting in my arms |as I |
+"Ab6" e3 F- | F G A B |"Dm7" c4- | "Db7"c2"_D.C. al FINE" yc2  || 
+w:thrill to |* the the magic charms | 
  
 X:1
 T:Centerpiece
@@ -2482,6 +2530,57 @@ w: I hear|mu- sic, *|might- y fine|mu- sic. * And|
 w: an- y time I think my|world is wrong, * I|get me out of bed and|sing * this|
 "F" F8- | "Gm7"F4 "C7"z4 |] 
 w: song.|| 
+ 
+X:1
+T:I Let A Song Go Out Of My Heart
+C:Duke Ellington, Henry Nemo, Irving Mills, John Redmond
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+V:1
+"Ebmaj7" EFEe-"Abmaj7" e3 c |"Ebmaj7" (3BcB E6 |"Gm7" z d3 cBGD |"C7" d2 Gc- c4 |
+w: I let a song _ go|out of my heart,|it was the sweet- est|mel- o- dy, _|
+"Fm7" F G2 A- G =A2 B- |"Bb7" B e6 c |"Ebmaj7" (3BcB E6- |"Fm7" E4"Bb7" z4 | 
+w: I know I _ lost heav|_ en 'cause|you were the song.|_|
+"Ebmaj7" EFEe-"Abmaj7" e3 c |"Ebmaj7" (3BcB E6 |"Gm7" z d3 cBGD |"C7" d2 Gc- c4 |
+w: Since you and I _ have|drift- ed a- part|life does- n't mean a|thing to me, _|
+"Fm7" F G2 A- A =A2 B- |"Bb7" B e6 c |"Ebm7" (3BcB E6- | D2 B2 B2 =A2 | 
+w: please come back, _ sweet mu|_ sic,  I|know I was wrong.|_ Am I too|
+"Fm7" A8- |"Bb7" A2 c2 c2 =B2 |"Ebmaj7" B8- | B2 B2"Dm7b5" c2"G7" d2 | 
+w: late|_ to make a-|mends?|_ You know that|
+"Cm7" e2 e2 e2 e2 |"Dbm7" e2 d2"F#7" ^F2 ^G2 |"Bmaj7" =B8 |"Bb+7" c F3- F4 | 
+w: we were meant to|be more than just|friends,|just friends. _|
+"Ebmaj7" EFEe-"Abmaj7" d3 c |"Ebmaj7" (3BcAB E6 |"Gm7" z d3 cBGD |"Cm" d2 Gc- c4 | 
+w:  I let a song _ go|out of my heart.|Be- lieve me, dar- ling,|when I say _|
+"Fm7" F"Gm7" G2"Abmaj7" A- A"Adim7" =A2"Ebmaj7" B- |"Bb7" B e3-"Abmaj7" e3 c |"Ebmaj7" (3BcB E4"Bb7" F2 |"Ebmaj7" E4 z4 |] 
+w: I won't know _ sweet mu|_ sic _ un-|til you re- turn some|day.| 
+ 
+X:1
+T:I Love Paris
+C:Cole Porter
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble 
+V:1
+[K:Gm]"Gm" G2 G2 | G B A G | B G3- | G2 z2 |
+w: I love|Par- is in the|spring- time||
+ G2 G2 | G B A G |"Am7b5" A4- |"D7" A4 |
+w: I love|Par- is in the|fall||
+"Am7b5" A2 A2 | A c B A |"D7" c A2 c/B/ | c A3 | 
+w: I love|Par- is in the|win- ter, when it|driz- zles,|
+"Am7b5" A3 e |"D7" d c B A |"Gm" B G2 B/A/ | B G3 ||
+w: I love|Par- is in the|sum- mer when it|siz- zles,|
+[K:G]"G" g2 g2 | g b a g | b g3- | g2 z2 | 
+w: I love|Par- is ev'- ry|mo- ment||
+ g2 z b | a g f e |"D7" d3 d- | d2 z2 | 
+w: ev'- ry|mo- ment of the|year, *||
+"C" e2 e2 |"C#dim" e g3 |"Bm7" d ^c d ^c |"E7" d e d B | 
+w: I love|Par- is,|why, oh why do|I love Par- is|
+"Am7" z A B c |"D7" B2 A2 |"G" G4- | G z z2 |] 
+w: Be- cause my|love is|near.|_| 
  
 X:1
 T:Killer Joe
