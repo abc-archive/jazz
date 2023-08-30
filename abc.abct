@@ -790,13 +790,15 @@ B _dfde- |:"Eb7#9" e8 | z2 z B _dfde- | e8 | z2 z E _GBGA- |
 X:1
 T:Blues For Alice
 C:Charlie Parker
+Q:1/4=200
 L:1/8
 M:4/4
 K:F
 V:1 treble 
-f3/2- |:"F6" f2 cA e2 cA |"Em7" de=Bd"A7b9" ^c_BGA- |"Dm7" A2 FD"G7" GAFE |"Cm7" (3_EGB d_d"F7" z F (3FGF |
+f- |:"F6" f2 cA e2 cA |"Em7" de=Bd"A7b9" ^c_BGA- |"Dm7" A2 FD"G7" GAFE |"Cm7" (3_EGB d_d"F7" z F (3FGF |
 "Bb7" c2 BG _A B,2 G |"Bbm7" _e_dB=B"Eb7" cFGA- |"F6" A2 EC D2 z _d- |"Abm7" d_cEB-"Db7" B2 z _A |
-"Gm7" (3G2 f2 f2 fdBD |"C7" AGcB _e2 z c- |"F6" c2 AE "D7"G2 z d- |1"Gm7" d2 BD"C7" A2 z f :|2"Gm7" d2)BD"C7"A2c"Fmaj9"G-|G8|] 
+"Gm7" (3G2 f2 f2 fdBD |"C7" AGcB _e2 z c- |"F6" c2 AE "D7"G2 z d- |1"Gm7" d2 BD"C7" A2 z f :|
+yyyyyyyyyy |2"Gm7" d2) BD"C7"A2c"Fmaj9"G-|G8|] 
  
 X:1
 T:Blues in the Closet
@@ -918,6 +920,30 @@ w:heart- ache eith- er|way, But|Beau- ti- ful!|_ And I'm|
 w:think- ing if|you were mine I'd|nev- er let you|go And|
 "G" dd d4"Bb7" G2 |"Am7" cc c2-"Ab7" c2 F2 |"G" G8- | G6 z2 |] 
 w: that would be But|Beau- ti- ful _ I|know.|_| 
+ 
+X:1
+T:But Not For Me
+C:George Gershwin
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+F G F |"Eb" G2 F"Cm7" E- | E/ z/"Bb7" F G F |"Eb" G4 | z"Bb7" F G F |
+w:They're writ- ing|songs of love,|* but not for|me.|A luck- y|
+"F7" G2 F E- |"Bb7" E/ z/ F G F |"Eb7" G4 | z G A B |
+w:star's a- bove,|* but not for|me.|With love to|
+"^Eb7+5" =B2"Ab" c e |"Fm7" z F G A |"F#dim" =A2"Eb" B e | z E"Bb7" F G |
+w:lead the way|I've found more|clouds of grey|than an- y|
+"^Eb7+5" G2"Fm7" A e | z e c A |"Fm7" F4 |"Bb7" z F G F |
+w:Rus sian play|could gua- ran-|tee.|I was a|
+"Eb" G2 F"Cm7" E- | E/ z/"Bb7" F G F | "Eb" G4 | z"Bb7" F G F |
+w: fool to fall|* and get that| way;|Heigh- ho! A-|
+"Eb" G2 F"Cm7" E- |"Bb7" E/ z/ F G F |"Eb7" G4 | z G A B |
+w:las! and al|* so, lack a|day!|Al- though I|
+"^Eb+5" =B2"Ab" c e |"Fm7" z F G A |"F#dim" =A2 B"G7" f | z"Cm" e c"C7" A |
+w:cant dis- miss|the mem'- ry|of his kiss|I guess he's|
+"Fm7" G4 |"Bb7" F4 |"Eb" E4-  |E z z2|] 
+w:not|for|me.| 
  
 X:1
 T:C Jam Blues
@@ -2639,6 +2665,27 @@ w: ev'- ry|mo- ment of the|year, *||
 w: I love|Par- is,|why, oh why do|I love Par- is|
 "Am7" z A B c |"D7" B2 A2 |"G" G4- | G z z2 |] 
 w: Be- cause my|love is|near.|_| 
+ 
+X:1
+T:I Mean You
+C:Thelonious Monk, Coleman Hawkins
+L:1/8
+M:4/4
+K:F
+P:IN
+_E-|"Eb7sus"EFGB cBcB|_d2 cB z_E2F|GBcB _d cB|z_E2 f z2 z f-|
+P:A
+"F6"fdcA FD .C2| .F2 z2 z C .D2| "Db7".F2 z2 z _D2 =E-  | "D7" E _D2 ^F-F3 f-  |
+"Gm7"fdcA FD .C2| "C7" F2 z2 {_A}A2 {_A}A2 | "F6" F2 z2 z C .D2 |1 F2 z2 z2 z f :|2 F2 z2 z c d2 :|
+P:B
+"Db7"F8- | F4 (3cG_D |"F6"C8 | C4 z C D2| 
+"Db7"F8- | F4 _d_AF_D | "Gb7"D_E=E6-|E6 z f-|
+P:A
+"F6"fdcA FD .C2| F2 z2 z C .D2| "Db7"F2 z2 z _D2 =E-  | "D7" E _D2 ^F-F3 f-  |
+"Gm7"fdcA FD .C2| "C7" F2 z2 {^G}A2 {^G}A2 | "F6" F2 z2 z C .D2 !coda!| F2 z2 z2 z f :|]
+P:Out
+M:2/4 
+!coda!F2 z_E-|[M:4/4]"Eb7sus"EFGB cBcB|_d2 cB z_E2F|GBcB _d cB|z_E2 fz4|] 
  
 X:1
 T:Killer Joe
