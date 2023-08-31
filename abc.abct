@@ -269,10 +269,10 @@ L:1/16
 M:6/8
 K:C
 V:1 treble 
+%%stretchlast 1
 "G7" B6- B4- BD | Bc B4- B4- BD | Bc B4- B4- BD | B6- B4 z2 | 
-"C7" A4 _B2 c4 d2 | c4 _B2 A4- AD |"G7" !~(!=B12 | G6- G4- G^G | 
-"D7#9" A12 |"Eb7#9""D7#9" _B12 |"G7" A6 =B6 | A6 G6 |] 
- 
+"C7" A4 _B2 c4 d2 | c4 _B2 A4- AD |"G7" =B12 | G6- G4- G^G | 
+"D7#9" A12 |"Eb7#9"_B12 "D7#9"y|"G7" A6 =B6 | A6 G6 |] 
  
 X:1
 T:All Of Me
@@ -396,13 +396,13 @@ L:1/8
 M:4/4
 K:C
 V:1 treble 
-"Bbm7" z4 c2 _B_d- |"Bm7" d8 |"Bbm7" z2 z c- c_BAB |"Bm7""E7" _d8 | 
+"Bbm7" z4 c2 _B_d- |"Bm7" d8 |"Bbm7" z2 z c- c_BAB |"Bm7" _d8 "E7"y | 
 "Amaj7" z E^F^G BAGF |"Ab7" _A8 |"Gmaj7" z DE^F A2 G_G- |"Gb7" G8 | 
 "Gbm7" z4 _A2 _G=A- |"Gm7" A8 |"Gbm7" z2 z _A- A_GFG |"Gm7" =A6 "C7" c2 | 
 "Fmaj7" G2- GF cB_BF |"A7b9" (3A2 _B2 G2 A2- AF/E/ |"Dm7" DEFG Ad^cd |"G7" A8 ||
 "Cm7" d_ed_B c4 |"F7" z2 _GA c_ed_d |"Am7b5" c4-"D7" cdcA |"Gm7" _BDGA"Gm7/F" Bdc=B | 
 "Em7b5" _B8 |"A7b9" z EGA cB_BA |"Fm7" _A2- AG (3G2 _B2 A2 |"Bb7" F2- FC/_E/ D4 || 
-"Bbm7" z4 c2 _B_d- |"Bm7" d8 |"Bbm7" z2 z c- c_BAB |"Bm7""E7" _d6 c2 | 
+"Bbm7" z4 c2 _B_d- |"Bm7" d8 |"Bbm7" z2 z c- c_BAB |"Bm7"_d6 "E7"c2 | 
 "Cm7b5" _e8- |"F7b9" e2- e_d z c z F |"Bbm7b5" E8 |"Eb7#9" ^F2- FE (3F2 E2 F2 | 
 "Abmaj7" _E8- | "Bm7"E4 "E7"z4 |]  
  
@@ -1911,8 +1911,10 @@ V:1 treble
 w: Love * makes me treat you the|way * that I do.|Gee, ba- by ain't I good * to|you! There's|
 "C7" c2- (3cGA"Ab7" B E2 F |"G7" G2- (3GA^F"C7" G4 |"F7" _G2 GE"Bb9" z/ (3_GGF- F E |"Eb" E6 "Eb7"z2 | 
 w: noth- * in' too good for a|girl * that's so true|Gee, bab- y ain't I good * to|you!|
-"A6" z F (3F=EF"Adim7" (3F_E_G- GF |"Eb/Bb" z ^F (3GcB-"Eb9" B4 |"Ab6" z c (3_GGG"Adim7" G4 |z "Dm7b5"  F (3FED-"G7" D4 | 
-w: Bought you a fur coat for Christ- * mas,|a dia- mond ring, *|a Cad- il- ac car,|an' ev- 'ry- thing. *|
+"A6" z F (3F=EF"Adim7" (3F_E_G- GF |"Eb/Bb" z ^F (3GcB-"Eb9" B4 |
+w:Bought you a fur coat for Christ- * mas,|a dia- mond ring, *|
+"Ab6" z c (3_GGG"Adim7" G4 |z "Dm7b5"  F (3FED-"G7" D4 | 
+w: a Cad- il- ac car,|an' ev- 'ry- thing. *|
 "C7" c2- (3cGA"Ab7" B E2 F |"G7" G2- (3GA^F"C7" G4 |"F7" _G2 GE "Bb9" (3_GGF- FE |"Eb" E4"Ab" z2"G7" z2 |]
 w: Love * makes me treat you the|way * thatI I do.|Gee, bab- y ain't I good * to|you!| 
  
@@ -2686,6 +2688,28 @@ P:A
 P:Out
 M:2/4 
 !coda!F2 z_E-|[M:4/4]"Eb7sus"EFGB cBcB|_d2 cB z_E2F|GBcB _d cB|z_E2 fz4|] 
+ 
+X:1
+T:It Don't Mean a Thing
+C:Duke Ellington
+L:1/4
+Q:1/4=120
+M:4/4
+K:Gmin
+V:1 treble 
+d |:"Gm" G2 "Gm/F#"G B | "Gm/F" d2 "C7/E"G B |"Eb7" _d2"D+7" c/ B G/- |"Gm7" G4 |
+w:It don′t mean a thing, if it ain't got that swing
+w:It don′t mean a thing all you got~to do is sing
+"C7" z B/B B/ B |"C#dim" B/ B B/ B B/B/- |"Bb6/D" B/B/ B B/ B B/- |1"D7b5" B z z B :|2 "D7b5" B3 c ||
+w:Doo-ah, doo-ah, doo-ah, doo-ah, doo-ah,* doo-ah, doo-ah, doo- |ah * It | ah  It |
+"Fm7" c c c/ B c/- |"Bb7" c B c/ B3/2 |"Eb6" G4- | G3 c |
+w:makes no diffe-rence if |* it's sweet or hot | * Just
+"C7" c c c/ c3/2 | c B c/ B3/2 |"F7" F4- |"F9" G3 "D+7" d ||
+w:give that rhy-thm ev-ery-thing you've got |* It
+"Gm" G2 "Gm/F#"G B | "Gm/F" d2 "C7/E"G B |"Eb7" _d2"D+7" c/ B G/- |"Gm7" G4 |
+w:don′t mean a thing, if it ain't got that swing
+"C7" z B/B B/ B |"C#dim" B/ B B/ B B/B/- |"Bb6" B/B/ B B/ B B/ | B4 |] 
+w:Doo-ah, doo-ah, doo-ah, doo-ah, doo-ah,* doo-ah, doo-ah, doo- |ah * 
  
 X:1
 T:Killer Joe
