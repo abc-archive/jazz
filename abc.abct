@@ -1975,24 +1975,6 @@ V:1 treble
 "Bmaj7" f8 |"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" b8 !coda! |"C#m7" ^f3 f"F#7" z4 :|
 !coda!"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" !fermata!b8 |]  
  
-X:258
-T:Giant Steps
-C:John Coltrane
-Z:All Rights Reserved
-L:1/8
-Q:1/4=1
-M:4/4
-I:linebreak $
-K:C
-V:1 treble nm="Piccolo"
-V:1
-"Bmaj7""_Fast Swing" ^f4"D7" d4 |"Gmaj7" B4"Bb7" G3 _B- |"Ebmaj7" B8 |"Am7" =B3 A-"D7" A4 | %4
-"Gmaj7" d4"Bb7" _B4 |"Ebmaj7" G4"F#7" ^D3 ^F- |"Bmaj7" F8 |"Fm7" G4"Bb7" F3 _B- | %8
-"Ebmaj7" B8 |"Am7" =B4"D7" A3 d- |"Gmaj7" d8 |"C#m7" ^d4"F#7" d3 ^f- | %12
-"Bmaj7" f8 |"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" b8 |1"C#m7" ^f3 f"F#7" z4 :|2 %16
-"Fm7" g4"Bb7" g3 _b- |"Ebmaj7" !fermata!b8 |] %18
- 
- 
 X:1
 T:Give Me the Simple Life
 C:Rube Bloom
@@ -2264,6 +2246,8 @@ w:Now I've met Miss Jones, and we'll keep on meet-ing till we
 "Am7"e2-"D7"e2 | "Gm7"ed "C7"AG | "F6"F4 | "Gm7"z2"C7"z2 |]
 w:die, * Miss Jones and I. 
  
+ 
+ 
 X:1
 T:Here's That Rainy Day
 C:James Van Heusen
@@ -2324,6 +2308,36 @@ w:guess if _ you say|so. * * I'd|have to pack my things _ and|go. That's right. 
 w:road Jack and|don't you come back no|more, no more, no|more, no more, Hit the|
 "Cm" F4 C3 C |"Ab7" E>E F2"G7" F2 E2 |"Cm" C8 |:"Ab7""_Repeat and fade" E>E F2"G7" F2 E2 |"Cm" C8 :| 
 w: road Jack and|don't you come back no|more.|Don't you come back no|more| 
+ 
+X:1
+T:Hit the Road to Dreamland
+C:Harold Arlen
+L:1/8
+M:4/4
+Q:1/4=140
+K:Bb
+V:1 treble 
+|:"Bb6" d4 B4 | d4 B4 | z d2 c dedc | d4"Gm" B4 | 
+w: Bye, bye|Ba- by.|Time to hit the road to|dream- land.|
+w: Hold tight|Bab- by,|we'll be swing- ing up in|dream- land.|
+"Cm7" c4 F4 | "F7" c4 F4 |"Cm7" EEFF"F7" G2 A2 |1"Bbmaj7" A8 :|2"Bb6" B8 ||
+w: You're my|ba- by,|dig you in the land of|Nod.||
+w: All night,|ba- by,|where the lit- tle cher- ubs||trod.|
+"D7" AA B2 c2 d2 | =e4- edc=e- | "D7"edc=e- edc"Am7"=e- |"D7" e8 |
+w:Look at that knocked- out|moon. * Been a blow|* in' his top * in the blue.||
+w:
+"Dm7" z F2 G A2 =B2 |"G7" c4 d4 |"Cm7" d8- |"F7" d F2 _A G2 F2 ||
+w: Ne- ver saw the|likes of|you.|* What an an- gel.|
+w: 
+"Bbr" d4 B4 |  d4 B4 | z d2 c dedc | d4"Gm" B4 |
+w:Bye bye,|ba- by,|time to hit the road to|dream- land.|
+w:
+"Cm7" c4 F4 |"F7" c4 F4 |"Cm7" EE F2"F7" G2 AA |"Dm7" FF G2"A7" A2 B2 |
+w:Don't cry,|ba- by,|it was di- vine but the|roost- er has fin- 'lly|
+w:
+"Ab7" d8 "G7"y|"Cm7" z e2 c "F7"B2 B2 |"Bb6" B8 | z8|] 
+w: crowed.|Time to hit the|road.|
+w:  
  
 X:1
 T:Honeysuckle Rose
@@ -2716,6 +2730,73 @@ P:A
 P:Out
 M:2/4 
 !coda!F2 z_E-|[M:4/4]"Eb7sus"EFGB cBcB|_d2 cB z_E2F|GBcB _d cB|z_E2 fz4|] 
+ 
+X:1
+T:I Wish You Love
+C:Charles Trenet
+L:1/4
+M:4/4
+Q:1/4=120
+K:Eb
+V:1 treble
+P:In
+ B, |"Ebm" B4- | "Ebm7"B _c/B/ "Ebm6"A/_G/F/G/ |"Fm7b5" A4 |"Bb7b13" z B/A/ _G/F/E/F/ |
+w: Good-|bye,|_ no use lead- ing with our|chins,|This is where our sto- ry|
+"Ebm" _G4 | z A/_G/ F/E/D/E/ |"Fm7b5" F4- |"Bb7b13" F2 z B, |
+w:ends,|nev- er lov- ers, ev- er|friends.|_ Good-|
+"Ebm" B4- |"Ebm7" B _d/B/"Ab" A/_G/"Cdim"F/G/ |"Db" A4 | z _c/A/"Abm" _G/F/E/F/ |
+w:bye,|_ let our hearts call it a|day,|But be- fore you walk a-|
+"Eb" =G4 |"Ebm" z B/_G/"B7b5" F/E/D/E/ |"Fm7b5" B4- | "Bb7" B z"Edim" (3G A B ||
+w:way,|I sin- cere- ly want to|say.|_ I wish you|
+P:A
+|:"Fm7" G F- (3F G F |"Bb7" G2 (3F F B |"Ebmaj7" F2"Ab7" (3E F E |"Gm7" F2"Gbdim" (3E E A |
+w:blue- birds * in the|spring to give your|heart a song to|sing; and then a|
+"Fm7" E2 (3C E C |"Bb7" D2 (3G F D |"Eb6" C4 "Ab7" y |"Gm7" C z "C7"(3G A B |
+w:kiss, but more than|this I wish you|love.|_ And in Ju-|
+P:A
+"Fm7" G F- (3F G F |"Bb7" G2 (3F F B |"Ebmaj7" F2"Ab7" (3E F E |"Gm7" F2"Gbdim" (3E E A |
+w:ly a * lem- on-|aide to cool you|in some leaf- y|glade; I wish you|
+"Fm7" E2 (3C E C |"Bb7" D2 (3G F G |"Bbm7" F4- |"Eb7" F z (3E F A |
+w:health and more than|wealth I wish you|love.|_ My break- ing|
+P:B
+"Abmaj7" c2 (3c c c |"Abm7" =B2 "Db7"(3E F G |"Eb6" B2"Ab7" (3B B B |"Gm7" B2 "C7"(3C _D C |
+w:heart and I a-|gree that you and|I could nev- er|be so with my|
+"Fm7" A2 (3A A A |"Cm7" G2 "F7"(3c c =B |"Fm7" B4- |"Bb7" B z"C7" (3G A B |
+w:best, my ver y|best, I set you|free.|_ I wish you|
+P:A
+"Fm7" G F- (3F G F |"Bb7" G2 (3F F B |"Ebmaj7" F2"Ab7" (3E F E |"Gm7" F2"Gbdim" (3E E A |
+w:shel- ter * from a|storm, a coz- y fire to keep you|warm, But most of|
+"Fm7" E2 (3C E C |"Bb7" D2"E7" (3G G G ||"Eb6" E4- "Ab7"y|"Gm7" E z "C7"(3G A B :|
+w: all, when snow- flakes|fall, I wish you|love.|_ (I wish you)| 
+ 
+X:1
+T:I'm Beginning To See The Light
+C:Duke Ellington, Johnny Hodges
+L:1/8
+M:4/4
+Q:1/4=160
+K:C
+V:1 treble 
+P:A
+ _A |"D7" Ac A2"G7" c2 d2 |"C6" e A2 "A7b13"A- A2 z _A | "D7"Ac A2"G7" c2 d2 |"Ebm7" _e _A2 A-"Ab7" A2 z A |
+w:I|nev- er cared much for|moon- lit skies * I|nev- er winked back at|fi- re- flies * but|
+"D7" Ac A2"G7" c2 d2 |"C7" e "Bb7"g2 g-"A7" g2 gf |"D7" ec A2"G7" c d2 c- |"C6" c4 z2 z _A |
+w:now that the stars are|in your eyes * I'm be-|gin- ning to see the light.|* I|
+P:A
+"D7" Ac A2"G7" c2 d2 |"C6" e A2 "A7b13"A- A2 z _A | "D7"Ac A2"G7" c2 d2 |"Ebm7" _e _A2 A-"Ab7" A2 z A |
+w: nev- er went in for|aft- er glow, * or|can- dle- light on the| mis- tle- toe, * but|
+"D7" Ac A2"G7" c2 d2 |"C7" e "Bb7"g2 g-"A7" g2 gf |"D7" ec A2"G7" c d2 c-  |"C6" c4 z2 z2 |
+w:now that you've turned the|lamp down low * I'm be-|gin- ning to see the * light.||
+P:B
+"E7" z e2 B e2 B2 | _A B2 e- e4 |"Eb7" z _e2 _B e2 B2 | G _B2 _e- e4 |
+w:Used to ram- ble|through the park, *|sha- dow box- ing|in the dark *|
+"D7" z d2 A d2 A2 | _G A2 d- d2 cd |"Ab7" _ee e2 e c2 d- |"G7" d4 z2 z _A |
+w:then you came and|caused a spark * that's a|four al- arm fi- re now|* I|
+P:A
+"D7" Ac A2"G7" c2 d2 |"C6" e A2 "A7b13"A- A2 z _A | "D7"Ac A2"G7" c2 d2 |"Ebm7" _e _A2 A-"Ab7" A2 z A |
+w: nev- er made love by|lan- tern shine, * I|nev- er saw rain- bows|in my wi- ne- but|
+"D7" Ac A2"G7" c2 d2 |"C7" e "Bb7"g2 g-"A7" g2 gf |"D7" ec A2"G7" c d2 c-  |"C6" c4 z2 z2 |] 
+w:now that your lips are|burn- ing mine * I'm be-|gin- ning to see the light.|| 
  
 X:1
 T:I'm Old Fashioned
