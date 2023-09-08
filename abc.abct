@@ -547,13 +547,25 @@ V:1 treble
 "Gm7" c6 B_A |"C7" B2 _AF A2 F_E |O"F7" F3 _E"D7" z4 |"Gm7" z4"C7" z2 F2 |]
 O "F7" F A,3 B,2 C2 | CDEF z2 F,2- | !fermata!"F7#11"F,8|]  
  
+X: 1
+T: Beatrice
+C:Sam Rivers
+M: 4/4
+L: 1/8
+Q:1/4=120
+K: F
+"Fmaj7"z2 z c c2c2|"Gbmaj7#11"f2c2c2_B2|"Fmaj7" c3AF2F2| "Ebmaj7#11"FG-G6|
+"Dm7"z2 z A A2 A2|"Ebmaj7#11"d2 c2 _eg zf-|"Dm7"f3 "Cm7"F4 _A|"Bbm7"(3cBc-c4 F2|
+"Am7"A6 c2 | "Bbmaj7"  f6 g1 | "Em7b5" a8- "A7b9"y| "Dm7"a6 g2|
+"Gm7" z f3 f3 f-| "Gbmaj7#11" f4-fcBc| "Fm7" c3 F cB _A2- | "Gbmaj7#11" A8|] 
+ 
 X:1
 T:Beautiful Love
 C:V. Young, W. King & E. Van Alstyne
 Q:1/4=180
 L:1/8
 M:4/4
-K:F
+K:Dm
 z D3 E2 F2 |:"Em7b5" A6 G2 |"A7b9" F3 E D2 EF- |"Dm" F8 |"D7" z F3 G2 A2 |
 w:Beau ti ful|love, you're|all a mys- ter- y||Beau- ti- ful|
 w:|love, I've|roamed your par- a- dise;||Search- ing for|
@@ -2823,6 +2835,137 @@ w: I'm _ Old|Fash- ioned, _ but|I don't|mind it. _ That's|
 w: how I want to|be as|long as you a-|gree to|
 "F/C" c2-"Dm7" c C |"Gm7" C C-"C7" C C |"F6" F4- "Bb7" y |"F6" F3 z |] 
 w: stay _ old|fash- ioned _ with|me. _|_| 
+ 
+X:1
+T:If I Were a Bell
+C:Frank Loesser
+L:1/8
+M:4/4
+Q:1/4=150
+K:F
+V:1 treble 
+"Fmaj7" z8"Dm7" |"Bbmaj7" z8"Gm7" |"Dm7/C" z8"G7b9/C"y"C13" | z4"A7/E" A2"Ebdim7" A2 ||
+w: |||Ask me|
+w: ||||
+|:"G7" AFFF- F F2A |"C7" AF F2 AF F2 |"F6" A2>C2- C4- | C2 z2 c2 c2 |
+w: how do I feel _ Ask me|now that we're cosy * and|cling- ing _|_ Well sir,|
+w: how do I feel * from this|chem- ist- try les- son I'm|learn- ing _|_ Well sir,|
+"Am7b5" cAAA- Accc- |"D7" cAAc- cA A2 |"G7" d2>G2- G4- |"C7" G4 z A2 G | 
+w: all I can say, _ is if I|_ were a bell _ I'd be|ring-ing! |_ From the|
+w: all I can say _ is if I|_ were a bridge _ I'd be| burn-ing! _|_ Yes, I|
+"F6" FF F2"F7/A" F2 FB- |"Bb6" B4 z"C7" A2G |"F6" FF F2 FFFc- | "Em7b5"c4 "A7"z A2G | 
+w: mo-ment we kissed to-night |* That's the|way I've just got-ta be-have | * Boy, if|
+w: knew my moral _ would crack|_ From the|won- der- ful way that you looked!|* Boy, if|
+"Dm7" FF F2 "Dm7/C"F2 Fd- |"Bbm7b5" d4 "E7"zc de- |"Amaj7" e^cde- ecde- | "Gm7"e4 "C7" A2 A2 | 
+w: I were a lamp I'd light|* And If I|* were a ban-ner _ I'd wave!|* Ask me|
+w: I were a duck I'd quack!|* Or if I|* were a goose _ I'd be cooked!|* Ask me|
+"G7" AFFF- F F2A |"C7" AF F2 AF F2 |"F6" A2>C2- C4- | C2 z2 c2 c2 | 
+w: how do I feel, * litt-le |me with my quiet * up-bring-ing|* Well Sir|
+w: how do I feel, _ ask me|now that we're fond-ly car-|ess- ing _|_ Well, if|
+"Am7b5" cAAA- Accc- |"D7" cAAc- cA A2 |"G7" d2>G2- G4- |"C7" G4 z A2 G | 
+w: All I can say _ is if I|_ were a gate _ I'd be|swing- ing _|_ And if|
+w: I were a sal-ad _  I know|_ I'd be * splash-ing my |dress-ing  *|* Or if|
+"F6" FF F2"F7/A" F2 F2 |"Bb6" B4"Bdim" d=B d2 |"F6/C" c8-"Bb7"y |"Am7b5" c2 z2"D7" A2 A2 | 
+w: I were a watch I'd|start popping _ my|spring|* Or if|
+w: I were a sea- son|I'd sure- ly be|spring,|*** If|
+"Gm7" AFF A- AF F2 |"C7" e2 c2 A2 D2 |1"F6" F6 z2 | "Am7b5"z4 A2"D7" A2 :|2 "F9" F8- | F6 z2 |]
+w: I were a bell _ I'd go|ding dong, ding dong|ding!|Ask me|
+w: I were a bell _ I'd go|ding dong, ding dong|_|_|ding!| 
+ 
+X:1
+T:Impressions
+C:John Coltrane
+L:1/8
+Q:1/4=240
+M:4/4
+K:Dmin
+V:1 treble 
+"Dm9" d8- | d4 egfd- | d8 | z3 e f2 g2 |
+ a2 c'2 e4 | d2 f2 =B2 dA- | A8 | z4 g2 f2 |
+ d8- | d4 egfd- | d8 | z3 e f2 g2 | 
+ a2 c'2 e4 | d2 f2 =B2 dA- | A8 | z4 f3 f- || 
+"Ebm9" f8- | f3 _e _a2 _g2 | f4 _e4 | _d4 _g3 c- | 
+ c4 B e3 | _A4 _G2 _dF- | F8 | z4 f4 || 
+"Dm9" d8- | d4 egfd- | d8 | z3 e f2 g2 | 
+ a2 c'2 e4 | d2 f2 =B2 dA- | A8 | z8 |] 
+ 
+ 
+X:1
+T:In A Mellow Tone
+C:Duke Ellington
+L:1/8
+Q:1/4=130
+M:4/4
+K:Bb
+V:1 treble
+ AF G A2 B- |"C7" B8 |"F7" z2 AF G A2 B- |"Bb" B8 |"Bb" z2 AF G A2 B- |
+w: In a mel- low tone|_|Feel- in' fan- cy free,|_|and I'm not a- lone|
+"Fm" B8 |"Bb7" z2 cG B c2 d- |"Eb" d8 |"Eb" z2 cG B c2 G- |
+w:_|I've got com- pan- y.|_|Ev- ry thing's O. K.|_|
+"Eb" G8 |"Ebm" z2 Bc- c2"Ab7" Bd- |"Bb" d8 |"G7" z2 AF G A2 B- |
+w:The live _ long day|_|With this mel- low- song,|_|
+"C7" B8 |"C7" z2 Bd- d2 BF- |"Cm" F8 |"F7" z2 AF G A2 B- |
+w: |I can't _ go wrong.|_|In a mel- low tone,|_
+"C7" B8 |"F7" z2 AF G A2 B- |"Bb" B8 | "Bb" z2 AF G A2 B- |
+w:|that's the way to live.|_| If you mope and groan,|
+"Fm" B8 |"Bb7" z2 cG B c2 d- |"Eb" d8 |"Eb" z2 ^cg- g2 cG- |
+w:_|some- thing's got to give.|_|So go _ your way,|
+"Eb" G8 |"Edim" z2 ^cg- g2 cG- |"Bb" G8 |"G7" z2 ^cg- g2 cG- |
+w:_|and laugh _ and play;|_|there's joy _ un- known,|
+"C7" G8 |"F7" z2 AF G A2 B- |"Bb" B8 | z8 |] 
+w:_|in a mel- low tone.|_| 
+ 
+X:1
+T:In a Sentimental Mood (v2)
+C:Duke Ellington
+L:1/8
+M:4/4
+Q:1/4=60
+K:Dm
+V:1 treble
+P:A
+ FG Acdf |"Dm" g4- g4- |"Dm7" g2 fg"Dm6" fedc |"Gm" A2 d A- A4- |"Gm7" A2 Ac d_A"A7"GF |
+w: In a sen- ti- men- tal|mood _|_ I can see the stars come|thru my room _| _ while your lov- ing at- ti-|
+"Dm" D4- DFAc |"D9+5" e6 d2 |"Gm7" B4"C7b9" E4 | "F6"G2 FG "Em7b5"A c"A7"df |
+w:tude _ is, like a|flame that|lights the|gloom. On the wings of ev- 'ry||
+P:A
+"Dm" g4-"_Dm^" g4- |"Dm7" g2 fg"Dm6" fedc |"Gm" A2 d A- A4- |"Gm7" A2 Ac d_A"A7"GF |
+w: kiss _|_ drifts a mel- o- dy so|strange and sweet. _|_ In this sen- ti- men- tal|
+"Dm" D4- DFAc |"D9+5" e6 d2 |"Gm7" B4"C7b9" E4 |"F" F4-"Ebm" F2"Ab7" z2 ||
+w:bliss _ you make my|par- a-|dise com-|plete. *|
+P:B
+"Dbmaj7" c2 Bc"Bbm7" _e_dcB |"Ebm7" F2 _EF"Ab7" _G_AFE |"Db6" _D4"Bb7+5" z4 |"Ebm7" z4"Ab7" z4 | 
+w:Rose pet- als seem to fall. It's|all like a dream to call you|mine.||
+w:
+"Dbmaj7" c2 Bc"Bbm7" _e_dcB |"Ebm7" F2 _EF"Ab7" _G_AFE |"Gm7" C8 |"C7" z2 FG Acdf ||
+w:My heart's a light- er thing since|you made this night a thing di-|vine|In a sen- ti- men- tal|
+w:
+P:A
+"Dm" g4-"_Dm^" g4- |"Dm7" g2 fg"Dm6" fedc |"Gm" A2 dA- A4- |"Gm" A2 Ac d_A"A7"GF |
+w: mood _|_ I'm with- in a world so|heav- en- ly _|_ for I nev- er dreamt that|
+w:
+"Dm" D4- DFAc |"D9+5" e6 d2 |"Gm" B4"C7b9" E4 |"F6" F2 z2 z4 |] 
+w:you'd _ be lov- ing|sen- ti-|men- tal|me.|
+w: 
+ 
+X:1
+T:In The Wee Small Hours Of The Morning
+C:David Mann
+L:1/8
+M:4/4
+Q:1/4=75
+K:C
+V:1 treble 
+ CD |:"Cmaj7" E2 E2"C+" (CD)EF |"C6" EC- C2-"C+" C2 CD |"C" E2 E2"C+" CDEF |"Dm7" D6 z D |
+w: In the|wee small hours _ of the|morn- ing, _ _ while the|whole wide world is fast a-|sleep, you|
+ A2 A2"G9" A3 A |"Em7b5" GFEF"A7" G3 G |"F#m7b5" ^FE^DE"B7" FB,BA |"Em""G7" G6 CD |
+w:lie a- wake and|think a- bout the girl and|nev- er ev- er think of count- ing|sheep. When you|
+"Cmaj7" E2 E2"C+" CDEF |"C6" EC- C2-"C+" C2 EF |"Cmaj7" G3 G"Em7b5" dGGG |"A+7""A7" A6 AB |
+w:lone- ly heart has learned its|les- son _ _ you'd be|hers if on- ly she would|call. In the|
+"Dm7" c2 c2"D#dim7" (AB)cd | "C" cG-"Gm6""A7" G4 FE |
+w:wee small hours _ of the| morn- ing, _ that's the|
+|1"Dm7" FcAF D2"G7b9" E2 |"C" C6 CD :|2"Dm7" F2 c2 A2 F2 |"D7" D4"G7b9" E4 |"C" C8- | C6 z2 |] 
+w:time you miss her most of|all. In the|time you miss her|most of|all.|_| 
  
 X:1
 T:In Walked Bud
