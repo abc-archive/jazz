@@ -97,9 +97,10 @@ T:A Place In The Sun
 C:Bryan Wells
 L:1/4
 M:4/4
+Q:1/4=150
 K:C
 V:1 trebla 
-z2 D E |:"Dm7" F2 D C |"G7" B,2 C D |"C" E E C B, |"Am7" A,2 A, E |
+D E |:"Dm7" F2 D C |"G7" B,2 C D |"C" E E C B, |"Am7" A,2 A, E |
 w: Like a|long lone- ly|stream, I keep|run- nin' towards a|dream, mov- in'|
 w: |old dust- y|road, I get|wear- y from the|load, mov- in'|
 "Dm7" D4- |"G7" D2 D B, |"C" C4- |"C" C2 D E |
@@ -275,12 +276,12 @@ L:1/8
 M:4/4
 K:C
 V:1 treble
-"C" CDCG- "A7" G G3  |"Dm7" z DED"G7" A4 |"C6" z GAG "C7/E"c c2 B |"F6" dcAE-"Fm6" E_E D2 |
+"C" CDCG- "A7" G G3  | z"Dm7" DED"G7" A4 |z "C6" GAG "C7/E"c c2 B |"F6" dcA"Fm6"E- E_E D2 |
 w: No one to talk with,|all by my- self,|No one to walk with, but|I'm hap- py on * the shelf,|
 w: I know for cer- tain,|the one I love.|I'm through with flirt- in', it's|just you I'm think- * in' of.|
 "C" z CDC"A7" G G3 |"Dm7" z DED"G7" A A2 G |1"E7" E4- "A7" E4- |"D7" E4 "G7" z4 :|2"C6" C4- "Fm6" C4- | "C6"C4 "E7"z4 ||
-w: Ain't mis- be- hav- in'|I'm sav- in' my love for|you||
-w: Ain't mis- be- hav- in',|I'm sav- ing my love for|you. *
+w: Ain't mis- be- hav- in'|I'm sav- in' my love for|you||||
+w: Ain't mis- be- hav- in',|I'm sav- ing my love for| ||you. *
 "Am" z cAc A3 z |"F7" z cAc A3 z |"D7" z cAc A3 z |"A7" z ^cA^c A2 z2 |
 w:Like Jack Hor- ner|in the cor- ner|don't go no- where,|what do I care,|
 "G" z2 d2 "E7"d2 d2 |"Am7" d2 c2"D7" B2 A2 |"G6" G4"A7" A4 |"D7" E4"G7" D4 |
@@ -755,15 +756,19 @@ L:1/8
 Q:1/4=120
 M:4/4
 K:Dm
+P:IN
 V: 1 clef= bass transpose=-12 
  D2 C2 B,2 A,2 | z8 |"Dm" C2"C" B,2"Bb" B,2"A" C2 |"Dm" D2"C" C2"Bb" C2"A" D2 |
-V: 1 clef=treble 
+V: 1 clef=treble
+P:A 
 "Dm" fazf"Dm/C" a2 a2 |"Bdim7" f4"Bb7" d2 z2 |"Dm" fazf"Dm/C" a2 a2 |"Bdim7" f4"Bb7" z4 | 
-"Dm" fazf a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gf"Dm"dd- |1"A7" d8 :|2 "Dm" d4 z2 ba ||
+"Dm" fazf a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gf dd- |1"Dm"y"A7" d8 :|2 "Dm" d4 z2 ba ||
+P:B
 "Gm6" g g2 a f f2 g | e e2 f defg |"Dm" a3 f a4- | a4 b3 a |
-"Gm6" (g g2) a f f2 g | e e2 f de"A7"fg |"Dm" a3"C7" f"Bb7" a4 | z8 ||
+"Gm6" (g g2) a f f2 g | e e2 f de"A7"fg |"Dm" a3"C7" f a4 |"Bb7" z8"A7"y ||
+P:A
 "Dm" fazf"Dm/C" a2 a2 |"Bdim7" f4"Bb7" d2 z2 |"Dm" fazf"Dm/C" a2 a2 |"Bdim7" f4"Bb7" z4 |
-"Dm" fazf a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gf"Dm"dd- |"A7" d8 |]  
+"Dm" fazf a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gfdd- |"Dm" d8 |]  
  
 X:1
 T:Blue in Green
