@@ -47,25 +47,24 @@ L:1/8
 Q:1/4=120
 M:4/4
 K:F
-"F9" z2 C2 CCz_E- |"Eb/Ab" E8 |"G/B" z2 D2 DDzA- |"Bb/C" A8 | 
+"F9" z2 C2 CC z_E- |"Eb/Ab" E8 |"G/B" z2 D2 DD zA- |"Bb/C" A8 | 
 w: A fog gy day |_|in Lon don town|_|
-"F" z2 F2 FFz_A- |"Eb/Ab" A8 |"G/B" z2 G2 G G2 d- |"Bb/C" d8 | 
+"F" z2 F2 FF z_A- |"Eb/Ab" A8 |"G/B" z2 G2 G G2 d- |"Bb/C" d8 | 
 w: It had me low|_|It had me down|_|
-"Fmaj7" z2 e2 e2 ec- |"Eb6/F" cc- c6 |"Bbmaj7" z2 A2 z AAF- |"Db/Eb" F4 z4 | 
+"Fmaj7" z2 e2 e2 e c- |"Eb6/F" c c- c6 |"Bbmaj7" z2 A2 z AA F- |"Db/Eb" F4 z4 | 
 w: I viewed the morn|_ ing _|with such a larm|_|
-"Fmaj7/C" z2 z F AGAA- |"D7" Ac- c4 c2 |"G9" z2 A2 z AAD- |"Bb/C" D4-"C+" ^C4 | 
+"Fmaj7/C" z2 z F AGA A- |"D7" Ac- c4 c2 |"G9" z2 A2 z AA D- |"Bb/C" D4-"C+" ^C4 | 
 w: The Brit ish mu se|_ um _ had|lost all its charm|_ _|
-"F9" z2 C2 C2 FF- |"Eb/Ab" F_E- E6 |"G/B" z2 D2 DD-DA- |"Bb/C" A4"C+" z2 AG | 
+"F9" z2 C2 C2 F F- |"Eb/Ab" F_E- E6 |"G/B" z2 D2 DD-D A- |"Bb/C" A4"C+" z2 AG | 
 w: "How long", I won|_ dered _|"could this thing _ last?"|_ but the|
-"Fmaj7" F6 z F |"Eb/Ab" _AB A6 |"G7/B""_1." z2 G2- GG-Gd- |"Bb/C" d4 z2 d2 | 
+"Fmaj7" F6 z F |"Eb/Ab" _AB A6 |"G7/B""_1." z2 G2- GG-G d- |"Bb/C" d4 z2 d2 | 
 w: age of|mir a cles|had _ n't _ passed|_ For|
-"Eb6/F" f6 f2 | d6 d2 |"Bbmaj7" c4 z czA- |"Dbmaj9b5/Eb" A4 z2 AB | 
+"Eb6/F" f6 f2 | d6 d2 |"Bbmaj7" c4 z c zA- |"Dbmaj9b5/Eb" A4 z2 AB | 
 w: sud den|ly I|saw you there|_ and thru|
-"F/C" c2 F2"Bb/C" G2 BA- |"Am6/C" A2 F2"Gm/C" G2 A2 |"Am7" A4"Dm7" f4 |"Gm7" F4"Bb/C" G4 | 
+"F/C" c2 F2"Bb/C" G2 B A- |"Am6/C" A2 F2"Gm/C" G2 A2 |"Am7" A4"Dm7" f4 |"Gm7" F4"Bb/C" G4 | 
 w: Fog gy Lon don town |_ the sun was|shin ing|ev' ry|
-"F" F8- | F2 z6|]
-w:where
- 
+"F" F8- | F2 z2 z4|]
+w:where 
  
 X:1
 T:A Night In Tunisia
@@ -174,27 +173,28 @@ w: you're a weav- er of|dreams and I'm in|love with you. *||
  
  
 X:1
-T:Accentuate The Positive
+T:Accentuate The Positive (Ac-Cent-Tchu-Ate the Positive)
 C:Harold Arlen, Johhny Mercer
 L:1/8
 M:4/4
+Q:1/4=140
 K:F
 V:1 treble
-CDF |:"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 |"Bb6" G2 z2"Bbm6" G2 z2 |"Db9" z GGF"G+7" _AF"C9"(DC) |
+CDF |:"F" A2 z2"F+" A2 z2 |z"F6"  AAF"F7" AG F2 |"Gm7" G2 z2 G2 z2 |"C7" z GGF _AF(DC) |
 w: You've got to|ac- cen-|tu- ate the pos- i- tive,|e- lim-|i- nate the neg- a- tive, _
-"F6" A2 z2"F+" A2 z2 |"F6" z FAF"F7" AG F2 |"Gm7" G G2 F"Gm7/C" GAFD |"F" F4- FCDF |
+"F" A2 z2"F+" A2 z2 |"F6" z FAF"F7" AG F2 |"Gm7" G G2 F"C7" GAFD |"F6" F4- "C7"F CDF |
 w: latch on|to the af- fir- ma- tive,|don't mess with mis- ter in be-|tween. _ You've got to|
-"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 |"Bb6" G2 z2"Bbm6" G2 z2 | "Db9" z FGF"G+7" _AF"C9"DC |
+"F" A2 z2"F+" A2 z2 |z"F6"  AAF"F7" AG F2 |"Gm7" G2 z2 G2 z2 |"C7" z GGF _AF(DC) |
 w: spread joy|up to the max- i- mum,|bring gloom|down to the min- i- mum *|
-"F6" A2 z2"F+" A2 z2 |"F6" z FAF"F7" AG F2 |"Gm7" GFGF"Gm7/C" GAFD |"F" F4- Fddc |
+"F" A2 z2"F+" A2 z2 |"F6" z FAF"F7" AG F2 |"Gm7" GFGF"C7" GAFD |"F6" F4- "C7"F ddc |
 w: have faith|or pan- de- mon- iums *|li- a- ble to walk up- on the|scene. _ To Il- lus-|
- A2 z2 z ddc |"F9" A2 z2 dc"F+7"_AG |"Bb" F4"Gm7" =AF"C9"DF |"F" F4- Fddc | 
+"F6" A2 z2 z ddc |"F7" A2 z2 dc"F+7"_AG |"Bbmaj7" F4"Gm7" =AF"C7"DF |"F6" F4- "C7"F ddc | 
 w: trate my last re-|mark, Jon- ah in the|whale, No- ah in the|ark. * What did they|
-A4"F9" z d2 c |"D7b9" _ee"G9" d2"C+7" c2"F9" A2 |"Db11" G8- |"C9" G d2 c dc"C9#5"dc |
+"F6" A4 z d2 c |"D7b9" _ee d2 c2 A2 |"G7#5" G8- |"C7" G d2 c d cdc |
 w:do, just when|ev- 'ry- thing got so|dark?|_ "Man," they said, "We'd bet- ter|
-"F6" A2 z2"F+" A2 z2 |  "F6" z AAF"F7" AG F2 |"Bb6" G2 z2"Bbm6" G2 z2 |"Db9" z GGF"G+7" _AF"C9"(DC) |
+"F6" A2 z2"F+" A2 z2 |  "F6" z AAF"F7" AG F2 |"Gm7" G2 z2 G2 z2 |"C7" z GGF _AF(DC) |
 w: ac- cen-| tu- ate the pos- i- tive,|e- lim-|i- nate the neg- a- tive, _|
-"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 |"Gm7" d d2 c"C9sus4" AF"C9"DF |"F" F4- FCDF :|
+"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 |"Gm7" d d2 c"C7" AFDF |"F6" F4- FCDF :|
 w: latch on|to the af- fir- ma- tive,|don't mess with mis- ter in be-|tween." _ (You've got to)| 
  
 X:1
@@ -3322,6 +3322,30 @@ w: easy to re- mem-|ber but |so hard to for- get. *Your sweet ex-|so hard to for
  
  
 X:1
+T:Just Squeeze Me (But Please Don’t Tease Me) 
+C:Duke Ellington, Lee Gaines 
+L:1/8
+M:4/4
+Q:1/4=120
+K:F
+"Fmaj7" A2 A2"Gm7" A B2 c- |"Am7" c3 c-"C7" c4 |"Fmaj7" A2 A2"Bbmaj7" A B2 c- |"Am7" c3 c-"D7b9" c3 c- |
+w: Treat me sweet and gen-|* tle _|when you say good- night,|_ Just _ squeeze|
+"Gm7" c3 B- B4 |"C7sus4" z c3"C7" c2 c2 |"Fmaj7" c3 A-"D7" A4 |"Gm7" z4"C7" z4 | 
+w: _ me, _|but please don't|tease me. _||
+"Fmaj7" A2 A2"Gm7" A B2 c- |"Am7" c3 c-"C13" c4 |"Fmaj7" A2 A2"Bbmaj7" A B2 c- |"Am7" c3 c-"D7b9" c3 c- | 
+w: I get sen- ti- men-|* tal _|when you hold me tight,|_ Just _ squeeze|
+"Gm7" c3 B- B4 |"C7sus4" z c3"C7" c2 c2 |"Fmaj7" c3 A- A4 | z4"C7#9" z4 || 
+w: _ me. _|but please don't|tease me. _||
+"F7" (3AB=B cc cd c2 | (3AB=B cc cd c2 |"Bbmaj7" (3Bc^c d_e dBG B- | B4-"Ab7" B4 | 
+w: Miss- ing you since you went a- way,|sing- ing the blues a- way each day,|count- ing the nights and wait- ing for you.|_ _|
+"G7" (3=Bc^c dd de d2 | (3=Bc^c dd de d2 |"Gm7" f4 d3 ^F |"C7sus4" G e2 d-"C7" d4 || 
+w: I'm in the mood to let you know|I nev- er knew I loved you so,|Please say you|love me too. _|
+"Fmaj7" A2 A2"Gm7" A B2 c- |"Am7" c3 c-"C13" c4 |"Fmaj7" A2 A2"Bbmaj7" A B2 c- |"Am7" c3 c-"D7b9" c3 c- | 
+w: When I get this feel-|* in _|I'm in ec- sta- sy,|_ So _ squeeze|
+"Gm7" c3 B- B4 |"C9sus4" z c3"C7" c2 c2 |"Fmaj7" c3 A-"D7" A4 |"Gm7" z8 "C7"y|]
+w: _ me, _|but please don't|tease me. _|| 
+ 
+X:1
 T:Killer Joe
 C:Benny Golson
 L:1/8
@@ -3353,6 +3377,34 @@ V:1
 "Cm7" E3 D/"Dm7"C/ D F3 |"Ebmaj7" EC =A,4"Dm7" DB, |"Cm7" G,8-"Dm7"y |"Ebmaj7" G,6"Dm7" CD ||
 "Cm7" E3 D/C/"Bb7" c3 B |"Ebmaj7" F3 G"Abmaj7" E C2 D |"Ab7" DF"A7" B6- | "Ab7" B3 c"G7b9" A3 G/F/ |
 "Cm7" G2 E2"Dm7" F2 D2 |"Ebmaj7/G" E2 CG,"G7" B,2 =B,2 |"Cm7" C8-"Dm7"y |"Ebmaj7" C6"Dm7" GF :| 
+ 
+X:1
+T:My Man
+C:Maurice Yvain, Channing Pollock 
+L:1/8
+M:4/4
+K:Em
+P:Verse
+ B,2 |:"Em" E2 EF G2 GF |"Em" EFGA"^F7" B2"^Em" BG |"C7" (A2 F2) z4 |"B7" z4 z2 FE |
+w:It's|cost me a lot, but there's|one thing that I've got, It's my|man. _|Cold and|
+w:|not much for looks, and no|he- ro out of books is my|man. _|Two or|
+"B7" ^D2 DE"C7" F2 FE |"B7" ^DE"C7"FG A2"^B7" GF |1"Em" (G2 E2)"Em/D" z4 |"C7" z4"B7" z2 B,2 :|2"Em" G2 E2 z2"B7" (F^D) ||
+w: wet, tired you bet, but all|that I soon for- get With my|man. _|He's|||||
+w: three girls has he, that he|likes as well as me, But I|||love him! I _|
+"Em" EFGA"B7" B2 z2 |"Em" z F GA B2"B7" z2 |"Em" z G FE DFED |  CEDC"F#7" B,2 z2 ||
+w:don't know why I should,|He is- n't good,|He is- n't true, He is- n't| true, What can I do?|
+w: ||||||
+P:Chorus
+"B" z2 FE"D7" D^D EF |"G6" G2 B2 G2 B2 |"G6" G2 FE "D7"D^DE^E | "D7"F2 A2 F A2 | 
+w:Oh, my man I love him|so, He'll nev- er|know, All my life is just de-|spair, but I don't|
+w: |||||
+"D7" F2 FE D^DE=F |"D7"^F2 c2 A2 F2 | "D7"E4 F4 |"G6" D8"G#dim"y |
+w:care. When he takes me in his|arms the world is|bright, all|right.|
+"D7" z2 FE D^DEF |"G6" G2 B2 G2 B2 | "G6" G2 BA GABG |"C7" A2 B2 A2 G2 |
+w:What's the diff- 'rence if I|say I'll go a-|way, When I know I'll come back|on my knees some|
+"A7" E2 EF AGFE |"G6" D2 B,D E2 G2 |"A7" B4"D7b9" A4 |"G6" G8- | G4 z4  |] 
+w: day? For what- ev- er my man|is, I am his for-|ev- er|more!||
+w: ||||||| 
  
 X:1
 T: St. James Infirmary
