@@ -1,4 +1,4 @@
-# Converted Jazz Tunes 
+# Tune Converter  
 
 This project is intended to convert various tune formats (xml and others) into each other. 
 
