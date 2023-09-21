@@ -1,8 +1,5 @@
-# ABC Notation Tune Archive Jazz
+# Converted Jazz Tunes 
 
-How to create a tune in ABC notation:    
-See ABC documentation / tutorial https://abcnotation.com/learn
+This project is intended to convert various tune formats (xml and others) into each other. 
 
-How to create ABC Tunebooks:     
-Merge multiple tunes into a single text file. The individual tunes must be separated by a blank line. 
-
+This is work in progress, recent files are provided for testing purposes only. 
